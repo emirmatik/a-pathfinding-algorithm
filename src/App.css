@@ -1,0 +1,48 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#root {
+  width: 100%;
+  height: 100%;
+}
+.App {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.grid {
+  display: grid;
+  width: 40rem;
+  height: 40rem;
+  grid-template-columns: repeat(25,1fr);
+  grid-template-rows: repeat(25,1fr);
+  border: 1px solid black;
+}
+.spot {
+  border: 1px solid black;
+  user-select: none;
+}
+
+/* start button */
+#start {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  padding: .5rem 1rem;
+  border: none;
+  border-radius: .5rem;
+  background: #4d94ff;
+  color: white;
+  cursor: pointer;
+ 
+}
+#start:hover {
+  background: #68a4ff;
+}
