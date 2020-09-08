@@ -7,7 +7,7 @@
 ⚪ You can delete walls with right click as well </br>
 🎯 Algorithm will find the shortest way between start and end points ! </br>
 
-**Note: If you want to change the number of rows and columns, do not forget to change it in CSS(.grid container) as well. 
+**Note: If you want to change the number of rows and columns, do not forget to change it in CSS(.grid container) as well.** 
 
 ### Colors:
 🟢 Spot, which is being evaluated </br>
