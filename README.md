@@ -2,7 +2,7 @@
 
 **Use `npm start` to run the app in the development mode**
 
-🧮 Select Start and End Point Coordinates as you wish </br>
+🧮 Select Start and End point coordinates as you wish </br>
 ✍ Add custom walls with using left click of your mouse </br>
 ⚪ You can delete walls with right click as well </br>
 🎯 Algorithm will find the shortest way between start and end points ! </br>
