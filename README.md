@@ -1,7 +1,7 @@
 # A* Pathfinding Algorithm w/ custom walls and start-end points
 
-**Use `npm install` to install dependencies first**
-**Use `npm start` to run the app in the development mode**
+**Use `npm install` to install dependencies first** </br>
+**Use `npm start` to run the app in the development mode** </br>
 
 🧮 Select Start and End point coordinates as you wish </br>
 ✍ Add custom walls with using left click of your mouse </br>
