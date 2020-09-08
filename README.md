@@ -1,6 +1,6 @@
 # A* Pathfinding Algorithm w/ custom walls and start-end points
 
-**Use `npm start` to run the app in the development mode
+**Use `npm start` to run the app in the development mode**
 
 🧮 Select Start and End Point Coordinates as you wish </br>
 ✍ Add custom walls with using left click of your mouse </br>
