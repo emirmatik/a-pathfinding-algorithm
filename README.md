@@ -13,7 +13,7 @@
 - If you get "Cannot read property 'split' of null" Error, refresh the page 
 
 ### Colors:
-🟢 Spot, which is being evaluated </br>
+🟢 Spot in evaluation </br>
 🔴 Evaluated spot </br>
 🔵 The Closest Path </br>
 ⚫ Wall </br>
